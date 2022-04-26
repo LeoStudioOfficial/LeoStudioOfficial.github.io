@@ -118,3 +118,11 @@ button:hover{
     top: 100%;
     left: 100%;
 }
+
+.downloadDiv a button{
+    text-align: center;
+}
+
+.downloadDiv h1{
+    font-size: 40px;
+}
