@@ -126,6 +126,18 @@ button:hover{
     float: left;
 }
 
+.downloadDiv2{
+    text-align: center;
+    position: relative;
+    left: -25px;
+    top: -110px;
+    width: 150px;
+    height: 150px;
+    margin: 15px;
+    float: left;
+}
+
+
 .downloadDiv h1{
     text-align: center;
     font-size: 15px;
