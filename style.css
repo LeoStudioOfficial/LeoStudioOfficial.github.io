@@ -115,7 +115,9 @@ button:hover{
 }
 
 .downloadDiv{
-    top: 70%;
+    position: relative;
+    left: -5px;
+    top: -125px;
     width: 70px;
 }
 
