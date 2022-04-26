@@ -120,6 +120,7 @@ button:hover{
     left: -5px;
     top: -125px;
     width: 70px;
+    margin: 0 20px;
 }
 
 .downloadDiv h1{
