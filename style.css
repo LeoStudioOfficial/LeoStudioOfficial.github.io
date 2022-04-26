@@ -115,13 +115,9 @@ button:hover{
 }
 
 .downloadDiv{
-    width: 50%;
-}
-
-.downloadDiv a button{
-    text-align: center;
+    width: 70px;
 }
 
 .downloadDiv h1{
-    font-size: 40px;
+    font-size: 20px;
 }
