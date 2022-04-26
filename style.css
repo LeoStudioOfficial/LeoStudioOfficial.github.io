@@ -115,9 +115,10 @@ button:hover{
 }
 
 .downloadDiv{
+    top: 70%;
     width: 70px;
 }
 
 .downloadDiv h1{
-    font-size: 20px;
+    font-size: 5px;
 }
